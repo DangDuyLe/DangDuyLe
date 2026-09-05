@@ -18,19 +18,33 @@
 
 ---
 
-### 💻 Developer Console
+### ⚡ Developer Console & Manifesto
 
 ```bash
-$ neofetch --developer
+❯ duyle --status --bio
 ```
-```yaml
-user: Nguyen Dang Duy Le (DangDuyLe)
-role: Full-Stack Developer
-portfolio: https://duynamiq.vercel.app
-mindset: "Write clean, readable code. Automate the boring stuff. Keep learning."
-interests: [Web Architecture, High-Performance APIs, Modern Frontend, Cloud Computing]
-current_focus: Building production-ready applications with modern JavaScript/TypeScript ecosystems
+
+```json
+{
+  "developer": "Nguyen Dang Duy Le (@DangDuyLe)",
+  "alias": "duynamiq",
+  "role": "Full-Stack Software Engineer",
+  "portfolio": "https://duynamiq.vercel.app",
+  "vibe": "Turning caffeine into robust, production-grade software ⚡",
+  "mission": "Bridging powerful backend architecture with snappy, aesthetic user experiences",
+  "philosophy": [
+    "Make it work, make it clean, make it blisteringly fast.",
+    "If it runs slow, profile it. If it looks dull, elevate it."
+  ],
+  "obsessions": [
+    "Modern TypeScript Ecosystems",
+    "High-Throughput APIs & Microservices",
+    "Pixel-Perfect UI/UX Engineering"
+  ]
+}
 ```
+
+> 💡 *"I engineer full-stack systems that live at the sweet spot of rock-solid performance and unforgettable design."*
 
 ---
 
@@ -78,8 +92,8 @@ current_focus: Building production-ready applications with modern JavaScript/Typ
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <ul>
-        <li>Ứng dụng khám phá ẩm thực và tìm kiếm nhà hàng tiện lợi.</li>
-        <li>Tối ưu trải nghiệm giao diện người dùng và tốc độ tải trang.</li>
+        <li>A seamless culinary discovery web app connecting food enthusiasts with top dining spots.</li>
+        <li>Engineered for optimal performance, rapid load times, and an intuitive, mobile-first UI/UX.</li>
       </ul>
       <p align="center">
         <a href="https://6-2-hd-one.vercel.app"><b>🌐 Live Demo</b></a> • 
@@ -97,8 +111,8 @@ current_focus: Building production-ready applications with modern JavaScript/Typ
         <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <ul>
-        <li>Backend RESTful API xử lý dữ liệu và logic điều hướng hệ thống.</li>
-        <li>Thiết kế module hóa dễ mở rộng, bảo mật và hiệu năng cao.</li>
+        <li>High-throughput RESTful routing and data pipeline backend service.</li>
+        <li>Modular architecture built for scalability, rock-solid security, and developer ergonomics.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/DangDuyLe/minepath-api"><b>📂 Source Code</b></a>

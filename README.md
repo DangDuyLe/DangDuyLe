@@ -2,14 +2,16 @@
 
   <!-- Header Typing Animation Banner -->
   <a href="https://github.com/DangDuyLe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=620&height=110&lines=⚡+Hi+there%2C+I'm+Nguyen+Dang+Duy+Le+👋;🚀+Full-Stack+Web+Developer;💻+Building+Modern+Web+Apps+%26+Scalable+APIs;✨+Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Nguyen+Dang+Duy+Le;Full-Stack+Web+Developer;Building+Scalable+Web+Apps+%26+APIs;Passionate+about+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
   </a>
 
   <p align="center">
+    <a href="https://duynamiq.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-duynamiq.vercel.app-7aa2f7?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=DangDuyLe&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-bb9af7?style=flat-square&logo=target" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-73daca?style=flat-square&logo=codeforces" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Vietnam-f7768e?style=flat-square&logo=google-maps" alt="Location" />
   </p>
 
 </div>
@@ -24,6 +26,7 @@ $ neofetch --developer
 ```yaml
 user: Nguyen Dang Duy Le (DangDuyLe)
 role: Full-Stack Developer
+portfolio: https://duynamiq.vercel.app
 mindset: "Write clean, readable code. Automate the boring stuff. Keep learning."
 interests: [Web Architecture, High-Performance APIs, Modern Frontend, Cloud Computing]
 current_focus: Building production-ready applications with modern JavaScript/TypeScript ecosystems
@@ -127,16 +130,20 @@ current_focus: Building production-ready applications with modern JavaScript/Typ
 
 <div align="center">
 
-  <a href="mailto:lenguyenduy1103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lenguyenduy1103%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://duynamiq.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-duynamiq.vercel.app-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:dangduyle2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dangduyle2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Duy%20Le%20Nguyen%20Dang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/DangDuyLe">
     <img src="https://img.shields.io/badge/GitHub-DangDuyLe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>

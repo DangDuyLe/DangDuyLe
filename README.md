@@ -1,59 +1,50 @@
-<div align="center">
+# Nguyen Dang Duy Le
 
-  <!-- Retro RPG Character Sheet (Flat Colors, No Gradients) -->
-  <img src="./assets/rpg-sheet.svg" alt="Duy Le - RPG Character Sheet" width="100%" />
-
-  <br /><br />
-
-  <p align="center">
-    <a href="https://duynamiq.vercel.app"><b>🌐 duynamiq.vercel.app</b></a> • 
-    <a href="https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/"><b>💼 LinkedIn</b></a> • 
-    <a href="mailto:dangduyle2005@gmail.com"><b>📫 dangduyle2005@gmail.com</b></a>
-  </p>
-
-</div>
+Full-Stack Developer • Ho Chi Minh City, Vietnam  
+[Portfolio](https://duynamiq.vercel.app) / [LinkedIn](https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/) / [Email](mailto:dangduyle2005@gmail.com)
 
 ---
 
-### 🕹️ The Story So Far
+### Overview
 
-I'm **Nguyen Dang Duy Le** (aka **duynamiq**), a full-stack engineer from Ho Chi Minh City, Vietnam. I like turning complex problems into fast, intuitive, and clean web applications.
+Software engineer working across the TypeScript and JavaScript ecosystem. I build responsive frontends with React and Next.js, and maintain scalable backend services with Node.js and Express.
 
-- 💼 **Where I build:** Most of my production code lives on **GitLab**, while this GitHub account is my workshop for side quests, open-source projects, and experiments.
-- ⚡ **What I enjoy:** Architecting REST APIs that stay fast under load and building frontend interfaces that don't make users think twice.
+- **Primary Stack:** TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB.
+- **Workflow:** Daily production code is hosted primarily on GitLab; this GitHub space serves as a home for personal projects, experiments, and open-source explorations.
+- **Interests:** High-performance web architecture, clean API design, and pragmatic user experiences.
 
 ---
 
-### 🌟 Selected Projects
+### Projects
 
-| Project | What It Is | The Stack | Check It Out |
+| Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🍔 FoodieFind** | Restaurant & dining discovery web app built to solve the ultimate developer dilemma: *"What are we eating tonight?"* | React, JavaScript, Tailwind CSS, Vercel | [🌐 Live Demo](https://6-2-hd-one.vercel.app) · [📂 Repo](https://github.com/DangDuyLe/FoodieFind-Restaurant-Food-Discovery) |
-| **⚡ Minepath API** | High-throughput backend routing and data pipeline engine with modular controller architecture. | Node.js, Express, REST APIs | [📂 Repo](https://github.com/DangDuyLe/minepath-api) |
+| **FoodieFind** | Restaurant and culinary discovery web application designed for fast search and frictionless dining exploration. | React, JavaScript, Tailwind CSS, Vercel | [Live Demo](https://6-2-hd-one.vercel.app) / [Source](https://github.com/DangDuyLe/FoodieFind-Restaurant-Food-Discovery) |
+| **Minepath API** | High-throughput backend routing and data pipeline service built with modular controller architecture. | Node.js, Express, RESTful APIs | [Source](https://github.com/DangDuyLe/minepath-api) |
 
 ---
 
-### 🎮 Developer Lore & Side Quests
-
-- 🍜 **True Story:** FoodieFind exists because deciding what to eat in Saigon is genuinely harder than configuring Webpack from scratch.
-- ☕ **Fuel Source:** `Cà phê sữa đá` > any energy drink known to mankind.
-- 🐛 **Favorite Debugger:** `console.log("here 1")` followed 30 seconds later by `console.log("WAIT WHY IS IT REACHING HERE")`.
-- 🎧 **In My Headphones:** Lo-Fi beats, Synthwave, and 80s City Pop when deep in flow state.
-
----
-
-### 🛠️ Tech Arsenal
+### Technical Focus
 
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend & Data:** Node.js, Express, RESTful APIs, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Postman, Linux, Vercel
+- **Frontend:** React, Next.js, Tailwind CSS, State Management
+- **Backend:** Node.js, Express, RESTful APIs, Database Design (PostgreSQL, MongoDB)
+- **Tooling:** Git, Docker, Postman, Linux, Vercel
 
 ---
 
-### 📬 Say Hi!
+### Developer Notes
 
-Always up for interesting engineering discussions, freelance gigs, or good food recommendations in Saigon:
+- FoodieFind was built to solve a recurring dilemma: spending 45 minutes deciding what to eat in Saigon.
+- Fuel: Vietnamese iced coffee (ca phe sua da) over everything else.
+- Go-to debugging workflow: systematic tracing and reliable test cases.
+- In rotation: Lo-Fi beats, Synthwave, and 80s City Pop during focused engineering blocks.
+
+---
+
+### Contact
+
+Open to discussions regarding full-stack roles, freelance opportunities, or technical collaboration:
 
 - **Portfolio:** [duynamiq.vercel.app](https://duynamiq.vercel.app)
 - **LinkedIn:** [duy-le-nguyen-dang-199b42328](https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/)

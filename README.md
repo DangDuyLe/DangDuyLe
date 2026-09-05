@@ -16,35 +16,14 @@
 
 </div>
 
----
+<br />
 
-### ⚡ Developer Console & Manifesto
+<!-- Interactive Visual Developer Terminal -->
+<div align="center">
+  <img src="./assets/hero-terminal.svg" alt="Developer Terminal HUD - Nguyen Dang Duy Le" width="100%" />
+</div>
 
-```bash
-❯ duyle --status --bio
-```
-
-```json
-{
-  "developer": "Nguyen Dang Duy Le (@DangDuyLe)",
-  "alias": "duynamiq",
-  "role": "Full-Stack Software Engineer",
-  "portfolio": "https://duynamiq.vercel.app",
-  "vibe": "Turning caffeine into robust, production-grade software ⚡",
-  "mission": "Bridging powerful backend architecture with snappy, aesthetic user experiences",
-  "philosophy": [
-    "Make it work, make it clean, make it blisteringly fast.",
-    "If it runs slow, profile it. If it looks dull, elevate it."
-  ],
-  "obsessions": [
-    "Modern TypeScript Ecosystems",
-    "High-Throughput APIs & Microservices",
-    "Pixel-Perfect UI/UX Engineering"
-  ]
-}
-```
-
-> 💡 *"I engineer full-stack systems that live at the sweet spot of rock-solid performance and unforgettable design."*
+<br />
 
 ---
 
@@ -52,91 +31,54 @@
 
 <div align="center">
 
-#### 🎨 Frontend Development
-<p align="center">
+  <p><b>⚡ Languages &amp; Frontend Ecosystem</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux,sass" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux,sass&perline=9" alt="Frontend Arsenal" />
   </a>
-</p>
 
-#### ⚙️ Backend & Database
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" alt="Backend Skills" />
-  </a>
-</p>
+  <br /><br />
 
-#### 🛠️ DevOps & Workspace
-<p align="center">
+  <p><b>⚙️ Backend, Databases &amp; Cloud Tools</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,linux,npm" alt="Tools & DevOps" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,git,docker,postman,vercel&perline=9" alt="Backend &amp; DevOps Arsenal" />
   </a>
-</p>
 
 </div>
 
----
-
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 FoodieFind</h3>
-      <p align="center">
-        <b>Restaurant & Food Discovery Platform</b>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <ul>
-        <li>A seamless culinary discovery web app connecting food enthusiasts with top dining spots.</li>
-        <li>Engineered for optimal performance, rapid load times, and an intuitive, mobile-first UI/UX.</li>
-      </ul>
-      <p align="center">
-        <a href="https://6-2-hd-one.vercel.app"><b>🌐 Live Demo</b></a> • 
-        <a href="https://github.com/DangDuyLe/FoodieFind-Restaurant-Food-Discovery"><b>📂 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Minepath API</h3>
-      <p align="center">
-        <b>RESTful API & Routing Service</b>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <ul>
-        <li>High-throughput RESTful routing and data pipeline backend service.</li>
-        <li>Modular architecture built for scalability, rock-solid security, and developer ergonomics.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/DangDuyLe/minepath-api"><b>📂 Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<br />
 
 ---
 
-### 📊 GitHub & Tech Metrics
+### 🌟 Featured Engineering Projects
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="12" cellpadding="0">
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=DangDuyLe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://6-2-hd-one.vercel.app" target="_blank">
+          <img src="./assets/project-foodiefind.svg" alt="FoodieFind - Restaurant Discovery Platform" width="100%" />
+        </a>
       </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangDuyLe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/DangDuyLe/minepath-api" target="_blank">
+          <img src="./assets/project-minepath.svg" alt="Minepath API - Routing Service" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
+
+<br />
+
+---
+
+### 📊 System Telemetry & Architecture
+
+<div align="center">
+  <img src="./assets/developer-metrics.svg" alt="Developer Telemetry &amp; Architecture Specs" width="100%" />
+</div>
+
+<br />
 
 ---
 
@@ -165,5 +107,5 @@
 <br />
 
 <div align="center">
-  <sub>Crafted with ☕ and passion by <b>Nguyen Dang Duy Le</b> • Constantly striving for excellence</sub>
+  <sub>Crafted with ⚡ and passion by <b>Nguyen Dang Duy Le (duynamiq)</b> • Constantly striving for engineering excellence</sub>
 </div>

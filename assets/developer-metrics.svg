@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 210" width="840" height="210">
+  <defs>
+    <linearGradient id="metricBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F141C" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+    <linearGradient id="barJs" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F7DF1E" />
+      <stop offset="100%" stop-color="#FF9E3B" />
+    </linearGradient>
+    <linearGradient id="barTs" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3178C6" />
+      <stop offset="100%" stop-color="#7AA2F7" />
+    </linearGradient>
+    <linearGradient id="barNode" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#339933" />
+      <stop offset="100%" stop-color="#73DACA" />
+    </linearGradient>
+    <linearGradient id="barReact" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61DAFB" />
+      <stop offset="100%" stop-color="#7DCFFF" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .f-code { font-family: 'Fira Code', monospace; }
+    .f-ui { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Border & Background -->
+  <rect x="2" y="2" width="836" height="206" rx="12" fill="url(#metricBg)" stroke="#222B3D" stroke-width="1.5" />
+
+  <!-- Header Strip -->
+  <path d="M 2 12 Q 2 2 12 2 L 828 2 Q 838 2 838 12 L 838 38 L 2 38 Z" fill="#141B26" />
+  <line x1="2" y1="38" x2="838" y2="38" stroke="#7AA2F7" stroke-width="0.8" stroke-opacity="0.25" />
+  <circle cx="20" cy="20" r="4" fill="#7AA2F7" />
+  <text x="34" y="24" class="f-code" font-size="11.5" font-weight="bold" fill="#7AA2F7" letter-spacing="1">ENGINEERING METRICS &amp; ARCHITECTURE SPECS</text>
+  <text x="815" y="24" class="f-code" font-size="10.5" fill="#565F89" text-anchor="end">LIVE TELEMETRY</text>
+
+  <!-- Left Stats Grid -->
+  <g transform="translate(25, 54)">
+    <!-- Metric 1 -->
+    <rect x="0" y="0" width="175" height="64" rx="8" fill="#161F2E" stroke="#7AA2F7" stroke-width="0.8" stroke-opacity="0.3" />
+    <text x="14" y="22" class="f-code" font-size="10" fill="#7AA2F7">PUBLIC REPOSITORIES</text>
+    <text x="14" y="50" class="f-ui" font-size="24" font-weight="900" fill="#F8FAFC">11</text>
+    <text x="50" y="48" class="f-code" font-size="10" fill="#73DACA">▲ Active</text>
+
+    <!-- Metric 2 -->
+    <rect x="190" y="0" width="175" height="64" rx="8" fill="#161F2E" stroke="#BB9AF7" stroke-width="0.8" stroke-opacity="0.3" />
+    <text x="204" y="22" class="f-code" font-size="10" fill="#BB9AF7">ECOSYSTEM CORE</text>
+    <text x="204" y="49" class="f-ui" font-size="18" font-weight="bold" fill="#C0CAF5">Full-Stack JS/TS</text>
+
+    <!-- Bottom Creed / Banner inside telemetry -->
+    <rect x="0" y="74" width="365" height="66" rx="8" fill="#131B29" stroke="#222B3D" stroke-width="1" />
+    <text x="14" y="96" class="f-code" font-size="10.5" fill="#73DACA">● ARCHITECTURE PRINCIPLES</text>
+    <text x="14" y="115" class="f-ui" font-size="11" fill="#A9B1D6">Clean Code • Modular REST APIs • Zero Bloat</text>
+    <text x="14" y="131" class="f-ui" font-size="10.5" fill="#565F89">Continuously shipped to production on Vercel &amp; Node</text>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="420" y1="50" x2="420" y2="195" stroke="#222B3D" stroke-width="1" />
+
+  <!-- Right Language Breakdown -->
+  <g transform="translate(445, 54)">
+    <text x="0" y="15" class="f-code" font-size="11" font-weight="bold" fill="#C0CAF5">PRIMARY LANGUAGE RADAR</text>
+
+    <!-- JS Bar -->
+    <text x="0" y="42" class="f-code" font-size="10.5" fill="#F7DF1E">JavaScript / React</text>
+    <text x="360" y="42" class="f-code" font-size="10.5" fill="#F7DF1E" text-anchor="end">48%</text>
+    <rect x="0" y="48" width="360" height="8" rx="4" fill="#1A2230" />
+    <rect x="0" y="48" width="172" height="8" rx="4" fill="url(#barJs)" />
+
+    <!-- TS Bar -->
+    <text x="0" y="76" class="f-code" font-size="10.5" fill="#7AA2F7">TypeScript / Node.js</text>
+    <text x="360" y="76" class="f-code" font-size="10.5" fill="#7AA2F7" text-anchor="end">32%</text>
+    <rect x="0" y="82" width="360" height="8" rx="4" fill="#1A2230" />
+    <rect x="0" y="82" width="115" height="8" rx="4" fill="url(#barTs)" />
+
+    <!-- HTML/CSS Bar -->
+    <text x="0" y="110" class="f-code" font-size="10.5" fill="#73DACA">HTML5 / Tailwind CSS</text>
+    <text x="360" y="110" class="f-code" font-size="10.5" fill="#73DACA" text-anchor="end">20%</text>
+    <rect x="0" y="116" width="360" height="8" rx="4" fill="#1A2230" />
+    <rect x="0" y="116" width="72" height="8" rx="4" fill="url(#barNode)" />
+
+    <!-- Legend Dots -->
+    <g transform="translate(0, 138)">
+      <circle cx="5" cy="5" r="4" fill="#F7DF1E" />
+      <text x="14" y="9" class="f-code" font-size="9.5" fill="#565F89">Frontend</text>
+      <circle cx="85" cy="5" r="4" fill="#7AA2F7" />
+      <text x="94" y="9" class="f-code" font-size="9.5" fill="#565F89">Backend</text>
+      <circle cx="165" cy="5" r="4" fill="#73DACA" />
+      <text x="174" y="9" class="f-code" font-size="9.5" fill="#565F89">Styling</text>
+      <text x="360" y="9" class="f-code" font-size="9.5" fill="#7AA2F7" text-anchor="end">Production Ready ⚡</text>
+    </g>
+  </g>
+</svg>

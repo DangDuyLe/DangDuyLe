@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <defs>
+    <linearGradient id="mineBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121824" />
+      <stop offset="100%" stop-color="#0E131C" />
+    </linearGradient>
+    <linearGradient id="mineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#73DACA" />
+      <stop offset="100%" stop-color="#7AA2F7" />
+    </linearGradient>
+    <linearGradient id="btnGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#73DACA" />
+      <stop offset="100%" stop-color="#7DCFFF" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-code { font-family: 'Fira Code', monospace; }
+    .font-ui { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="396" height="236" rx="12" fill="url(#mineBg)" stroke="#222B3D" stroke-width="1.5" />
+  <rect x="2" y="2" width="396" height="4" rx="2" fill="url(#mineGlow)" />
+
+  <!-- Icon & Header -->
+  <circle cx="36" cy="38" r="18" fill="#152B28" stroke="#73DACA" stroke-width="1" />
+  <text x="36" y="44" font-size="18" text-anchor="middle">⚡</text>
+
+  <text x="64" y="34" class="font-ui" font-size="16" font-weight="bold" fill="#F8FAFC">Minepath API</text>
+  <text x="64" y="48" class="font-code" font-size="10.5" fill="#73DACA">ROUTING &amp; DATA ENGINE</text>
+
+  <!-- Status Pill -->
+  <rect x="300" y="26" width="80" height="20" rx="10" fill="#1E2838" stroke="#7AA2F7" stroke-width="0.8" />
+  <text x="340" y="40" class="font-code" font-size="9.5" font-weight="bold" fill="#7AA2F7" text-anchor="middle">RESTful</text>
+
+  <!-- Description -->
+  <text x="20" y="80" class="font-ui" font-size="11.5" fill="#A9B1D6">
+    High-throughput backend service engineered for complex
+  </text>
+  <text x="20" y="98" class="font-ui" font-size="11.5" fill="#A9B1D6">
+    routing logic, data transformations, and rapid API responses.
+  </text>
+
+  <!-- Tech Badges -->
+  <g transform="translate(20, 118)">
+    <rect x="0" y="0" width="75" height="22" rx="5" fill="#1C2536" stroke="#89D185" stroke-width="0.8" />
+    <text x="37" y="15" class="font-code" font-size="10" fill="#89D185" font-weight="bold" text-anchor="middle">Node.js</text>
+
+    <rect x="83" y="0" width="75" height="22" rx="5" fill="#1C2536" stroke="#C0CAF5" stroke-width="0.8" />
+    <text x="120" y="15" class="font-code" font-size="10" fill="#C0CAF5" font-weight="bold" text-anchor="middle">Express</text>
+
+    <rect x="166" y="0" width="85" height="22" rx="5" fill="#1C2536" stroke="#7AA2F7" stroke-width="0.8" />
+    <text x="208" y="15" class="font-code" font-size="10" fill="#7AA2F7" font-weight="bold" text-anchor="middle">REST API</text>
+
+    <rect x="259" y="0" width="70" height="22" rx="5" fill="#1C2536" stroke="#BB9AF7" stroke-width="0.8" />
+    <text x="294" y="15" class="font-code" font-size="10" fill="#BB9AF7" font-weight="bold" text-anchor="middle">JSON</text>
+  </g>
+
+  <!-- Highlights Box -->
+  <rect x="20" y="152" width="360" height="34" rx="6" fill="#141C2B" stroke="#222B3D" stroke-width="1" />
+  <text x="30" y="173" class="font-code" font-size="10" fill="#73DACA">🔒 Clean Controller Architecture</text>
+  <text x="235" y="173" class="font-code" font-size="10" fill="#BB9AF7">⚡ Modular Logic</text>
+
+  <!-- Footer Actions -->
+  <g transform="translate(20, 198)">
+    <rect x="0" y="0" width="360" height="28" rx="6" fill="#1C2433" stroke="#7AA2F7" stroke-width="1" />
+    <text x="180" y="18" class="font-ui" font-size="11" font-weight="bold" fill="#7AA2F7" text-anchor="middle">📂 Explore Source Code &amp; API Spec ↗</text>
+  </g>
+</svg>

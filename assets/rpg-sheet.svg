@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" width="840" height="320">
+  <style>
+    .pixel-title { font-family: 'Courier New', Consolas, monospace; font-size: 15px; font-weight: bold; letter-spacing: 2px; }
+    .pixel-label { font-family: 'Courier New', Consolas, monospace; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+    .pixel-val   { font-family: 'Courier New', Consolas, monospace; font-size: 12.5px; }
+    .pixel-dim   { font-family: 'Courier New', Consolas, monospace; font-size: 11.5px; fill: #6c7086; }
+  </style>
+
+  <!-- Solid Flat Background (No Gradients) -->
+  <rect x="2" y="2" width="836" height="316" rx="4" fill="#181825" stroke="#313244" stroke-width="2" />
+
+  <!-- Outer Double Retro Frame -->
+  <rect x="8" y="8" width="824" height="304" rx="2" fill="none" stroke="#89b4fa" stroke-width="1.5" />
+
+  <!-- Title Banner -->
+  <rect x="18" y="16" width="804" height="32" fill="#1e1e2e" stroke="#45475a" stroke-width="1" />
+  <text x="32" y="38" fill="#89b4fa" class="pixel-title">⚔️ CHARACTER SHEET // DUY LE [duynamiq]</text>
+  <text x="808" y="38" fill="#a6e3a1" class="pixel-title" text-anchor="end">LVL 21 FULL-STACK</text>
+
+  <!-- Left Column: Stats & Vitals -->
+  <g transform="translate(24, 62)">
+    <!-- HP Box -->
+    <rect x="0" y="0" width="370" height="42" fill="#1e1e2e" stroke="#313244" stroke-width="1" />
+    <text x="14" y="26" fill="#f38ba8" class="pixel-label">HP</text>
+    <text x="48" y="26" fill="#f38ba8" class="pixel-val">♥♥♥♥♥</text>
+    <text x="125" y="26" fill="#cdd6f4" class="pixel-val">[100/100]</text>
+    <text x="225" y="26" fill="#a6e3a1" class="pixel-val">STATUS: CODING</text>
+
+    <!-- Mana Box -->
+    <rect x="0" y="50" width="370" height="42" fill="#1e1e2e" stroke="#313244" stroke-width="1" />
+    <text x="14" y="76" fill="#f9e2af" class="pixel-label">MP</text>
+    <text x="48" y="76" fill="#f9e2af" class="pixel-val">★★★★★</text>
+    <text x="125" y="76" fill="#cdd6f4" class="pixel-val">[999/999]</text>
+    <text x="225" y="76" class="pixel-dim">Fuel: Cà phê sữa đá</text>
+
+    <!-- Base Stats -->
+    <rect x="0" y="100" width="370" height="136" fill="#1e1e2e" stroke="#313244" stroke-width="1" />
+    <text x="14" y="124" fill="#89b4fa" class="pixel-label">ATTRIBUTES &amp; SKILL TREE</text>
+    
+    <text x="14" y="150" fill="#cdd6f4" class="pixel-val">• Frontend Architecture</text>
+    <text x="356" y="150" fill="#89b4fa" class="pixel-val" text-anchor="end">[■■■■■■■■□□] 85%</text>
+
+    <text x="14" y="174" fill="#cdd6f4" class="pixel-val">• REST APIs &amp; Node.js</text>
+    <text x="356" y="174" fill="#89b4fa" class="pixel-val" text-anchor="end">[■■■■■■■■■□] 90%</text>
+
+    <text x="14" y="198" fill="#cdd6f4" class="pixel-val">• Database Optimization</text>
+    <text x="356" y="198" fill="#89b4fa" class="pixel-val" text-anchor="end">[■■■■■■■□□□] 75%</text>
+
+    <text x="14" y="222" fill="#cdd6f4" class="pixel-val">• Debugging with console.log</text>
+    <text x="356" y="222" fill="#a6e3a1" class="pixel-val" text-anchor="end">[■■■■■■■■■■] MAX</text>
+  </g>
+
+  <!-- Right Column: Loadout & Traits -->
+  <g transform="translate(416, 62)">
+    <!-- Equipment / Weapons -->
+    <rect x="0" y="0" width="400" height="92" fill="#1e1e2e" stroke="#313244" stroke-width="1" />
+    <text x="14" y="22" fill="#cba6f7" class="pixel-label">EQUIPPED GEAR</text>
+    
+    <text x="14" y="46" fill="#89b4fa" class="pixel-val">⚔️ Main Weapon:</text>
+    <text x="145" y="46" fill="#cdd6f4" class="pixel-val">TypeScript + React (ATK +99)</text>
+
+    <text x="14" y="70" fill="#89dceb" class="pixel-val">🛡️ Offhand:</text>
+    <text x="145" y="70" fill="#cdd6f4" class="pixel-val">Node.js + Tailwind CSS (DEF +88)</text>
+
+    <!-- Passive Perk: GitLab Stealth -->
+    <rect x="0" y="100" width="400" height="80" fill="#1e1e2e" stroke="#fab387" stroke-width="1" />
+    <text x="14" y="122" fill="#fab387" class="pixel-label">PASSIVE BUFF: [GITLAB PHANTOM]</text>
+    <text x="14" y="144" fill="#cdd6f4" class="pixel-val">"Grinds commits invisibly in GitLab shadows daily.</text>
+    <text x="14" y="164" fill="#cdd6f4" class="pixel-val">Only appears on GitHub for open-source boss fights."</text>
+
+    <!-- Current Quest -->
+    <rect x="0" y="188" width="400" height="48" fill="#1e1e2e" stroke="#313244" stroke-width="1" />
+    <text x="14" y="208" fill="#a6e3a1" class="pixel-label">CURRENT QUEST</text>
+    <text x="14" y="226" fill="#cdd6f4" class="pixel-val">Shipping duynamiq.vercel.app &amp; eating good food</text>
+  </g>
+</svg>

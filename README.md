@@ -1,41 +1,59 @@
-# Nguyen Dang Duy Le
+<div align="center">
 
-**Full-Stack Developer** • Ho Chi Minh City, Vietnam  
-[duynamiq.vercel.app](https://duynamiq.vercel.app) · [LinkedIn](https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/) · [dangduyle2005@gmail.com](mailto:dangduyle2005@gmail.com)
+  <!-- Retro RPG Character Sheet (Flat Colors, No Gradients) -->
+  <img src="./assets/rpg-sheet.svg" alt="Duy Le - RPG Character Sheet" width="100%" />
+
+  <br /><br />
+
+  <p align="center">
+    <a href="https://duynamiq.vercel.app"><b>🌐 duynamiq.vercel.app</b></a> • 
+    <a href="https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/"><b>💼 LinkedIn</b></a> • 
+    <a href="mailto:dangduyle2005@gmail.com"><b>📫 dangduyle2005@gmail.com</b></a>
+  </p>
+
+</div>
 
 ---
 
-### About
+### 🕹️ The Story So Far
 
-I am a software engineer focused on building robust full-stack web applications and scalable APIs. I enjoy working across the entire lifecycle of a product—from architecture and backend logic to responsive, intuitive user interfaces.
+I'm **Nguyen Dang Duy Le** (aka **duynamiq**), a full-stack engineer from Ho Chi Minh City, Vietnam. I like turning complex problems into fast, intuitive, and clean web applications.
 
-- **Stack:** Primary focus on TypeScript, React, Next.js, Node.js, Express, and modern databases.
-- **Workflow:** Daily professional engineering takes place primarily on **GitLab**, while this GitHub space hosts my personal experiments, showcase projects, and open-source contributions.
-- **Focus:** Performance optimization, maintainable code structure, and pragmatic system design.
+- 💼 **Where I build:** Most of my production code lives on **GitLab**, while this GitHub account is my workshop for side quests, open-source projects, and experiments.
+- ⚡ **What I enjoy:** Architecting REST APIs that stay fast under load and building frontend interfaces that don't make users think twice.
 
 ---
 
-### Selected Projects
+### 🌟 Selected Projects
 
-| Project | Description | Tech Stack | Links |
+| Project | What It Is | The Stack | Check It Out |
 | :--- | :--- | :--- | :--- |
-| **FoodieFind** | A responsive restaurant and culinary discovery platform designed for swift search and seamless dining exploration. | React, JavaScript, Tailwind CSS, Vercel | [Live Demo](https://6-2-hd-one.vercel.app) · [Repository](https://github.com/DangDuyLe/FoodieFind-Restaurant-Food-Discovery) |
-| **Minepath API** | High-throughput backend routing service and RESTful API pipeline with modular controller design. | Node.js, Express, REST APIs | [Repository](https://github.com/DangDuyLe/minepath-api) |
+| **🍔 FoodieFind** | Restaurant & dining discovery web app built to solve the ultimate developer dilemma: *"What are we eating tonight?"* | React, JavaScript, Tailwind CSS, Vercel | [🌐 Live Demo](https://6-2-hd-one.vercel.app) · [📂 Repo](https://github.com/DangDuyLe/FoodieFind-Restaurant-Food-Discovery) |
+| **⚡ Minepath API** | High-throughput backend routing and data pipeline engine with modular controller architecture. | Node.js, Express, REST APIs | [📂 Repo](https://github.com/DangDuyLe/minepath-api) |
 
 ---
 
-### Technical Skills
+### 🎮 Developer Lore & Side Quests
+
+- 🍜 **True Story:** FoodieFind exists because deciding what to eat in Saigon is genuinely harder than configuring Webpack from scratch.
+- ☕ **Fuel Source:** `Cà phê sữa đá` > any energy drink known to mankind.
+- 🐛 **Favorite Debugger:** `console.log("here 1")` followed 30 seconds later by `console.log("WAIT WHY IS IT REACHING HERE")`.
+- 🎧 **In My Headphones:** Lo-Fi beats, Synthwave, and 80s City Pop when deep in flow state.
+
+---
+
+### 🛠️ Tech Arsenal
 
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3, SQL
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, RESTful APIs, Database Architecture (PostgreSQL, MongoDB)
-- **Tooling & Operations:** Git, Docker, Postman, Linux, Vercel
+- **Backend & Data:** Node.js, Express, RESTful APIs, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Postman, Linux, Vercel
 
 ---
 
-### Contact
+### 📬 Say Hi!
 
-If you'd like to collaborate, discuss a project, or just talk tech, feel free to reach out:
+Always up for interesting engineering discussions, freelance gigs, or good food recommendations in Saigon:
 
 - **Portfolio:** [duynamiq.vercel.app](https://duynamiq.vercel.app)
 - **LinkedIn:** [duy-le-nguyen-dang-199b42328](https://www.linkedin.com/in/duy-le-nguyen-dang-199b42328/)

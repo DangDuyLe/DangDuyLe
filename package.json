@@ -1,0 +1,17 @@
+{
+  "name": "dangduyle-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README for Nguyen Dang Duy Le (@DangDuyLe)",
+  "type": "module",
+  "scripts": {
+    "preview": "node scripts/render-profile.js"
+  },
+  "keywords": [
+    "github-profile",
+    "dangduyle",
+    "tokyonight",
+    "cyberpunk"
+  ],
+  "author": "Nguyen Dang Duy Le <lenguyenduy1103@gmail.com>",
+  "license": "MIT"
+}
